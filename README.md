@@ -60,6 +60,68 @@ resumos, exercícios e respostas!
 
 ###
 
+**<h2>📌 Sumário:</h2>**
+
+###
+
+- Introdução;
+- Justificativa;
+- Objetivos;
+- Requisitos Funcionais;
+- Requisitos Não Funcionais;
+- Premissas;
+- Restrições;
+- Sprints;
+- Anexos.
+
+###
+
+**<h2>✨️ Introdução e Justificativa:</h2>**
+
+Texto...
+
+###
+
+**<h2>🎖 Objetivos:</h2>**
+
+###
+
+- O que é o projeto;
+- Design seguindo padrão;
+- Interface de facil compreensão; 
+- Menu simples;
+- Layout responsivo;
+- Formas de contato; 
+- Chatbot com voz para auxílio; 
+- Ferramentas de uso e teste;
+- Evitar excesso de efeitos;
+- Site rápido;
+- Desempenho natural;
+- Presença;
+
+###
+
+**<h2>✅️ Requisitos Funcionais:</h2>**
+
+###
+
+- Busca;
+- Seleção;
+- Chatbot;
+- Perguntas Funcionais;
+
+###
+
+**<h2>🏆 Tópicos:</h2>**
+
+###
+
+- Contexto;
+- Explicação do conteudo;
+- Exercícios;
+- Respostas interativas;
+- Chatbot;
+- Logo;
 
 
 
