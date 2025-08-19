@@ -1,3 +1,5 @@
+<h5>Repositório em desenvolvimento até Janeiro...</h5>
+
 **<h2>📘 Documentação do Portfólio de PWFE (Programação Web Front-End) 📘</h2>**
 
 ###
