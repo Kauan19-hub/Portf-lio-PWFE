@@ -11,7 +11,7 @@
 Durante o desenvolvimento do portfólio, aplicamos os principais conceitos de desenvolvimento web no Fron-End<br>
 com foco em estruturação de páginas, estilização e interatividade. Com isso, aprendemos sobre: 
 
-###
+---
 
 - Estrutura básica de HTML;
 - Estlização com CSS;
