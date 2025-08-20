@@ -187,14 +187,6 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 
 ###
 
-<table> 
-
-     <tr>
-     
-      
-     </tr>
-
-</table>
 
 
 
