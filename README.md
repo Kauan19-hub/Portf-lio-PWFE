@@ -45,7 +45,8 @@ Permite manipular o dom, responder eventos, validar formulários, entre outros..
 
 Este projeto de portfólio está sendo desenvolvido com o objetivo de aplicar e melhorar meus conhecimentos com Front-End<br>
 criando uma página web completa para entrega. Um projeto fácil onde contém um pequeno contexto, explicações, documentações<br>
-resumos, exercícios e respostas!
+resumos, exercícios e respostas! O nome<br>
+será: **ILUSTRA!**
 
 ###
 
