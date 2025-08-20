@@ -121,6 +121,35 @@ será: **ILUSTRA!**
 
 ###
 
+**<h2>🤔 Qual o motivo do nome escolhido?</h2>**
+
+###
+
+A palavra **ilustra** vem do verbo **ilustrar** e significa esclarecer, explicar e  exemplificar.
+
+###
+
+**<h2>‼️ Cores: Sensação e Significado:</h2>**
+
+###
+
+
+**🟤 Tons de café e bege:**
+
+###
+
+São cores terrosas que remetem à natureza, passando uma sensação de conforto, estabilidade e familiaridade. Em design de interiores, são frequentemente usadas para criar ambientes relaxantes, como cafés e restaurantes.
+
+###
+
+**⚪️ Branco:**
+
+###
+
+Representa pureza, limpeza e simplicidade. Quando combinado com tons terrosos, cria um equilíbrio visual, adicionando um toque de 
+
+###
+
 **<h2>🖌️Paleta de Cores e Logo:</h2>**
 
 ###
