@@ -129,7 +129,7 @@ Texto...
 
 ###
 
-**⬇️ Confira abaixo, como será as cores padrão do portfólio, e a logo! ⬇️**
+**⬇️ Confira abaixo, como serão as cores padrão do portfólio, e a logo! ⬇️**
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" />
