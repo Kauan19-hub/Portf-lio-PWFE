@@ -125,15 +125,14 @@ Texto...
 
 ###
 
-**<h2>🖌️Cores Padrão:</h2>**
+**<h2>🖌️Acesse a Paleta de Cores e a Logo:</h2>**
 
 ###
-- #A67B5B;
-- #6F4F28;
-- #C09772;
-- #FFFFFF.
 
-
+<div align="left">
+  <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
+</div>
 
 
 
