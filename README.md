@@ -186,14 +186,12 @@ Criada por Kauan Vinícius, 2025.
 Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar!
 
 ###
-```
-<table>
-    <tr> 
-      <td>Dado 1</td>
-      <td>Dado 2</td>
-    </tr>
-</table>
-```
+
+\`\`\`
+| Coluna 1 | Coluna 2 |
+| -------- | -------- |
+| Dado 1   | Dado 2   |
+\`\`\`
 
 
 
