@@ -150,7 +150,7 @@ Representa pureza, limpeza e simplicidade. Quando combinado com tons terrosos, c
 frescor e luminosidade. 
 ###
 
-**<h2>🖌️Paleta de Cores e Logo:</h2>**
+**<h2>🖌️ Paleta de Cores e Logo:</h2>**
 
 ###
 
