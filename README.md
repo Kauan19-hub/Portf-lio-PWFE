@@ -14,11 +14,12 @@ com foco em estruturação de páginas, estilização e interatividade. Com isso
 ---
 
 - Estrutura básica de HTML;
-- Estlização com CSS;
+- Estilização com CSS;
 - Interatividade com JavaScript;
 - Princípios básicos de UI/UX;
 - Ferramentas de design como Figma e Canva;
 - Organização de projetos com VSCode;
+- Voz de IA com JavaScript;
 - Documentação em GitHub.
 
 ###
@@ -56,6 +57,7 @@ resumos, exercícios e respostas!
 ✅ HTML: Base semântico;<br>
 ✅ CSS: Estilização;<br>
 ✅ JS: Interatividade;<br>
+✅ GitHub: Documentação;<br>
 ✅ VS Code: Editor de código onde foi desenvolvido o projeto.
 
 ###
@@ -65,7 +67,6 @@ resumos, exercícios e respostas!
 ###
 
 - Introdução;
-- Justificativa;
 - Objetivos;
 - Requisitos Funcionais;
 - Requisitos Não Funcionais;
@@ -73,12 +74,6 @@ resumos, exercícios e respostas!
 - Restrições;
 - Sprints;
 - Anexos.
-
-###
-
-**<h2>✨️ Introdução e Justificativa:</h2>**
-
-Texto...
 
 ###
 
