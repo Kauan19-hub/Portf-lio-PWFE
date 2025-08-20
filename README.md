@@ -147,7 +147,7 @@ São cores terrosas que remetem à natureza, passando uma sensação de conforto
 ###
 
 Representa pureza, limpeza e simplicidade. Quando combinado com tons terrosos, cria um equilíbrio visual, adicionando um toque de 
-
+frescor e luminosidade. 
 ###
 
 **<h2>🖌️Paleta de Cores e Logo:</h2>**
