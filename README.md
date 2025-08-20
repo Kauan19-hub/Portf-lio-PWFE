@@ -123,6 +123,15 @@ Texto...
 - Chatbot;
 - Logo;
 
+###
+
+**<h2>🖌️Cores Padrão:</h2>**
+
+###
+- #A67B5B;
+- #6F4F28;
+- #C09772;
+- #FFFFFF.
 
 
 
