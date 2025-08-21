@@ -154,11 +154,16 @@ frescor e luminosidade.
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
-</div>
  <img width="8"/>
-<a href=" https://www.canva.com/design/DAGwvWwxV-Y/ZewNyMbIKSoDFop8DEyBJg/edit?ui=e30" />
- <img src="" title="Acesse mais detalhes aqui!" />
+ <a href=" https://www.canva.com/design/DAGwvWwxV-Y/ZewNyMbIKSoDFop8DEyBJg/edit?ui=e30" />
+ <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="35" alt="canva logo" title="Acesse mais detalhes aqui!" />
+ <img width="8" />
+</div>
 
+
+https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="35" alt="canva logo"
+
+###
 ###
 
 **<h2>📄 Licença</h2>**
