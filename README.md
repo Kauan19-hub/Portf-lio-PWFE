@@ -21,7 +21,7 @@ com foco em estruturação de páginas, estilização e interatividade. Com isso
 - Princípios básicos de UI/UX;
 - Ferramentas de design como Figma e Canva;
 - Organização de projetos com VSCode;
-- Voz de IA com JavaScript;
+- Comandos de voz com JavaScript;
 - Documentação em GitHub.
 
 ###
@@ -71,8 +71,8 @@ será: **ILUSTRA!**
 
 - Introdução;
 - Objetivos;
-- Requisitos Funcionais;
-- Requisitos Não Funcionais;
+- Requisitos funcionais;
+- Requisitos não funcionais;
 - Premissas;
 - Restrições;
 - Sprints;
@@ -90,10 +90,7 @@ será: **ILUSTRA!**
 - Menu simples;
 - Layout responsivo;
 - Formas de contato; 
-- Chatbot com voz para auxílio; 
-- Ferramentas de uso e teste;
-- Evitar excesso de efeitos;
-- Site rápido;
+- Chatbot com voz; 
 - Desempenho natural;
 - Presença;
 
@@ -106,29 +103,16 @@ será: **ILUSTRA!**
 - Busca;
 - Seleção;
 - Chatbot;
-- Perguntas Funcionais;
+- Perguntas e respostas funcionais;
 
 ###
 
 **<h2>🤖 Características do Chatbot:</h2>**
 
-✅️ Voz desenvolvida por IA e framework;<br>
+✅️ Voz desenvolvida através da programação;<br>
 ✅️ Nomeado como **Zypher**;<br>
 ✅️ Mente futurista e inteligente;<br>
 ✅️ Possui uma forte personalidade.
-
-###
-
-**<h2>🏆 Tópicos:</h2>**
-
-###
-
-- Contexto;
-- Explicação do conteudo;
-- Exercícios;
-- Respostas interativas;
-- Chatbot;
-- Logo;
 
 ###
 
@@ -161,16 +145,19 @@ Representa pureza, limpeza e simplicidade. Quando combinado com tons terrosos, c
 frescor e luminosidade. 
 ###
 
-**<h2>🖌️ Paleta de Cores e Logo:</h2>**
+**<h2>🖌️ Paleta de Cores, Logo e bot:</h2>**
 
 ###
 
-**⬇️ Confira abaixo, como serão as cores padrão do portfólio, e a logo! ⬇️**
+**⬇️ Confira abaixo, como serão as cores padrão do portfólio, a logo e o bot! ⬇️**
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
 </div>
+ <img width="8"/>
+<a href=" https://www.canva.com/design/DAGwvWwxV-Y/ZewNyMbIKSoDFop8DEyBJg/edit?ui=e30" />
+ <img src="" title="Acesse mais detalhes aqui!" />
 
 ###
 
