@@ -1,5 +1,6 @@
 <h5>Repositório em desenvolvimento até Outubro...</h5>
 
+```bash
 **<h2>📘 Documentação do Portfólio de PWFE (Programação Web Front-End) 📘</h2>**
 
 ###
