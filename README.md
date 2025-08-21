@@ -1,4 +1,4 @@
-<h5>Repositório em desenvolvimento até Janeiro...</h5>
+<h5>Repositório em desenvolvimento até Outubro...</h5>
 
 **<h2>📘 Documentação do Portfólio de PWFE (Programação Web Front-End) 📘</h2>**
 
@@ -186,5 +186,20 @@ Criada por Kauan Vinícius, 2025.
 Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar!
 
 ###
+
+**<h2>🛠️ Ferramentas utilizadas:</h2>**
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="6" />
+</div>
 
 
