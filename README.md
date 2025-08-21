@@ -108,6 +108,10 @@ será: **ILUSTRA!**
 
 ###
 
+**OBS: Chatbot com voz desenvolvido por IA e framework!**
+
+###
+
 **<h2>🏆 Tópicos:</h2>**
 
 ###
