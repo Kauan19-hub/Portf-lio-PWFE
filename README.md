@@ -213,4 +213,8 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
   <img width="6" />
 </div>
 
+###
+
+<h6>Duração: 4 meses</h6>
+
 
