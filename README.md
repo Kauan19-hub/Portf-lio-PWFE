@@ -17,6 +17,7 @@ com foco em estruturação de páginas, estilização e interatividade. Com isso
 - Estrutura básica de HTML;
 - Estilização com CSS;
 - Interatividade com JavaScript;
+- Framework para melhor desenvolvimento;
 - Princípios básicos de UI/UX;
 - Ferramentas de design como Figma e Canva;
 - Organização de projetos com VSCode;
