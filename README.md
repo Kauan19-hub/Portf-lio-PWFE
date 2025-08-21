@@ -109,7 +109,12 @@ será: **ILUSTRA!**
 
 ###
 
-**OBS: Chatbot com voz desenvolvido por IA e framework!**
+**<h2>🤖 Características do Chatbot:</h2>**
+
+✅️ Voz desenvolvida por IA e framework;<br>
+✅️ Nomeado como **Zypher**;<br>
+✅️ Mente futurista e inteligente;<br>
+✅️ Possui uma forte personalidade.
 
 ###
 
