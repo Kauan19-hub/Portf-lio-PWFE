@@ -160,10 +160,6 @@ frescor e luminosidade.
  <img width="8" />
 </div>
 
-
-https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="35" alt="canva logo"
-
-###
 ###
 
 **<h2>📄 Licença</h2>**
