@@ -186,8 +186,6 @@ Você tem permissão para usar, copiar, modificar e distribuir este projeto para
 ❌ Não é permitido vender o projeto original ou suas partes como produto próprio;<br>
 ⚠️ Por favor, mantenha os créditos ao autor original: @Kauan19-hub.<br>
 
-Criada por Kauan Vinícius, 2025.
-
 ###
 
 **<h2>🤝 Contribuições:</h2>**
@@ -216,5 +214,6 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 ###
 
 <h6>Duração: 4 meses</h6>
+<h6>Criada por: Kauan Vinícius, 2025.</h6>
 
 
