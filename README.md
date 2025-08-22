@@ -185,7 +185,7 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 
 ###
 
-<h6>Duração: 4 meses</h6>
+<h6>Duração: 4 meses.</h6>
 <h6>Criada por: Kauan Vinícius, 2025.</h6>
 
 
