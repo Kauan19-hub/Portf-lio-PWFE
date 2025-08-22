@@ -60,6 +60,7 @@ será: **ILUSTRA!**
 ✅ HTML: Base semântico;<br>
 ✅ CSS: Estilização;<br>
 ✅ JS: Interatividade;<br>
+✅️ JQuery: Responsividade;<br>
 ✅ GitHub: Documentação;<br>
 ✅ VS Code: Editor de código onde foi desenvolvido o projeto.
 
@@ -181,23 +182,6 @@ Você tem permissão para usar, copiar, modificar e distribuir este projeto para
 ###
 
 Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar!
-
-###
-
-**<h2>🛠️ Ferramentas utilizadas:</h2>**
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="6" />
-</div>
 
 ###
 
