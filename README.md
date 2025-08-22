@@ -182,7 +182,7 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 
 ###
 
-**<h2🤖 Conheça Zypher:</h2>***
+**<h2>🤖 Conheça Zypher:</h2>**
 
 ###
 
