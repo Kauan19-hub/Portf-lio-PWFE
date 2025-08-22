@@ -19,4 +19,7 @@ Lembre-se de sempre manter o respeito em nossa plataforma para mantermos um ambi
 ###
 
 Muito obrigado pela visita, e espero que goste do portfólio! 😉
- 
+
+###
+
+<img src="https://github.com/Kauan19-hub/Portf-lio-PWFE/blob/master/Zypher.png?raw=true" width="200px" height="240px"/>
