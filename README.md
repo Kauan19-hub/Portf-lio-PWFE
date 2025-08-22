@@ -190,7 +190,8 @@ Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbo
 
 ###
 
-[Acesse a Branch](https://github.com/Kauan19-hub/Portf-lio-PWFE/blob/master/Zypher.png "Zypher está na branch Master!")
+[Imagem](https://github.com/Kauan19-hub/Portf-lio-PWFE/blob/master/Zypher.png "Zypher está na branch Master!")
+[Biografia](https://github.com/<Kauan19-hub/Portf-lio-PWFE/blob/master/biografia.md "Zypher está na branch Master!")
 
 ###
 
