@@ -182,6 +182,18 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 
 ###
 
+**<h2🤖 Conheça Zypher:</h2>***
+
+###
+
+Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbolo do portfólio!
+
+###
+
+[Acesse a Branch](https://github.com/Kauan19-hub/Portf-lio-PWFE.git "Zypher está na branch Master!")
+
+###
+
 <h6>Duração: 4 meses.</h6>
 <h6>Criada por: Kauan Vinícius, 2025.</h6>
 
