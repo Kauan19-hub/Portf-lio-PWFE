@@ -1,4 +1,4 @@
-<h5>Repositório em desenvolvimento até Outubro...</h5>
+<h6>Repositório em desenvolvimento até Outubro...</h6>
 
 
 **<h2>📘 Documentação do Portfólio de PWFE (Programação Web Front-End) 📘</h2>**
