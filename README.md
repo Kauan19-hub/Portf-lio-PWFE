@@ -47,8 +47,7 @@ Permite manipular o dom, responder eventos, validar formulários, entre outros..
 
 Este projeto de portfólio está sendo desenvolvido com o objetivo de aplicar e melhorar meus conhecimentos com Front-End<br>
 criando uma página web completa para entrega. Um projeto fácil onde contém um pequeno contexto, explicações, documentações<br>
-resumos, exercícios e respostas! O nome<br>
-será: **ILUSTRA!**
+resumos, exercícios e respostas!
 
 ###
 
@@ -97,31 +96,12 @@ será: **ILUSTRA!**
 
 ###
 
-**<h2>✅️ Requisitos Funcionais:</h2>**
-
-###
-
-- Busca;
-- Seleção;
-- Chatbot;
-- Perguntas e respostas funcionais;
-
-###
-
 **<h2>🤖 Características do Chatbot:</h2>**
 
 ✅️ Voz desenvolvida através da programação;<br>
 ✅️ Nomeado como **Zypher**;<br>
 ✅️ Mente futurista e inteligente;<br>
 ✅️ Possui uma forte personalidade.
-
-###
-
-**<h2>🤔 Qual o motivo do nome escolhido?</h2>**
-
-###
-
-A palavra **ilustra** vem do verbo **ilustrar** e significa esclarecer, explicar e  exemplificar.
 
 ###
 
