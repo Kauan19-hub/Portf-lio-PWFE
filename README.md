@@ -150,17 +150,12 @@ frescor e luminosidade.
 
 ###
 
-**⬇️ Confira abaixo, como serão as cores padrão do portfólio, a logo e o bot! ⬇️**
+**⬇️ Confira abaixo, como serão as cores padrão do portfólio, e a logo! ⬇️**
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" target="blank">
    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
   </a>
- <img width="8" />
- <a href="https://www.canva.com/design/DAGwvWwxV-Y/ZewNyMbIKSoDFop8DEyBJg/edit" target="blank">
- <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="35" target="blank" alt="canva logo" title="Acesse mais detalhes aqui!" />
- </a>
- <img width="8" />
 </div>
 
 ###
