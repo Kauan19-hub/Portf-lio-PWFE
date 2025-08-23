@@ -201,7 +201,7 @@ Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbo
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=jquery" height="27" alt="jquery logo" title="JQuery" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=figma" height="27" alt="figma logo" ttitle="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="27" alt="figma logo" title="Figma" />
 </div>
 
 <h6>Duração: 4 meses.</h6>
