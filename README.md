@@ -61,7 +61,7 @@ resumos, exercícios e respostas!
 ✅ JS: Interatividade;<br>
 ✅️ JQuery: Responsividade;<br>
 ✅ GitHub: Documentação;<br>
-✅ VS Code: Editor de código onde foi desenvolvido o projeto.
+✅ VS Code: Editor de código onde foi desenvolvido o portfólio.
 
 ###
 
@@ -72,10 +72,7 @@ resumos, exercícios e respostas!
 - Introdução;
 - Objetivos;
 - Requisitos funcionais;
-- Requisitos não funcionais;
-- Premissas;
 - Restrições;
-- Sprints;
 - Anexos.
 
 ###
@@ -87,7 +84,6 @@ resumos, exercícios e respostas!
 - O que é o projeto;
 - Design seguindo padrão;
 - Interface de facil compreensão; 
-- Menu simples;
 - Layout responsivo;
 - Formas de contato; 
 - Chatbot com voz; 
