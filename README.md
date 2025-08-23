@@ -109,28 +109,15 @@ resumos, exercícios e respostas!
 
 ###
 
-
-**🟤 Tons de café e bege:**
-
-###
-
-São cores terrosas que remetem à natureza, passando uma sensação de conforto, estabilidade e familiaridade. Em design de interiores, são frequentemente usadas para criar ambientes relaxantes, como cafés e restaurantes.
+<h6>Em breve...</h6>
 
 ###
 
-**⚪️ Branco:**
+**<h2>🖌️ Paleta de Cores:</h2>**
 
 ###
 
-Representa pureza, limpeza e simplicidade. Quando combinado com tons terrosos, cria um equilíbrio visual, adicionando um toque de 
-frescor e luminosidade. 
-###
-
-**<h2>🖌️ Paleta de Cores e Logo:</h2>**
-
-###
-
-**⬇️ Confira abaixo, como serão as cores padrão do portfólio, e a logo! ⬇️**
+**⬇️ Confira abaixo, como serão as cores padrão do portfólio! ⬇️**
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" target="blank">
