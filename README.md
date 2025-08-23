@@ -12,9 +12,24 @@ enviar sugestões de mudanças ou melhorias!
 
 ###
 
-Sou um chatbot inteligente, futurista, amigável e fui programado com voz real. O projeto foi desenvolvido<br>
-durante 4 meses para garantir um ótimo desempenho e interagir o máximo possível com nossos visitantes.<br>
+Sou um chatbot inteligente, futurista, amigável e fui programado com voz real. Fi desenvolvido ao longo<br>
+do projeto, durante 4 meses para garantir um ótimo desempenho e interagir o máximo possível com nossos visitantes.<br>
 Lembre-se de sempre manter o respeito em nossa plataforma para mantermos um ambiente acolhedor e leve!<br>
+
+###
+
+**<h2>😝 Curiosidade sobre meu nome:</h2>**
+
+###
+
+O nome **Zypher**, representa:<br>
+
+###
+
+🚀 Inovação;<br>
+💡 Futuro;<br>
+🎭 Identidade;<br>
+🔮 Visão avançada.
 
 ###
 
