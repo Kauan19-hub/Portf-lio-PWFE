@@ -105,14 +105,14 @@ resumos, exercícios e respostas!
 
 ###
 
-**<h3>🔵 Tons de Azul:</h3>**
+**🔵 Tons de Azul:**
 
 ###
 
 - **Azul Elétrico**: (Botões e links) `#2563EB`;
 - **Azul Turquesa:**: (Detalhes) `#06B6D4`;
 
-**<h3>⚪ Branco:</h3>**
+**⚪ Branco:**
 
 ###
 
@@ -120,7 +120,7 @@ resumos, exercícios e respostas!
 
 ###
 
-**<h3>🟣 Tons de Roxo:</h3>**
+**🟣 Tons de Roxo:**
 
 ###
 
@@ -160,9 +160,9 @@ Você tem permissão para usar, copiar, modificar e distribuir este projeto para
 
 ####
 
-✔️ Pode usar e adaptar para seus estudos ou projetos;<br>
+✅ Pode usar e adaptar para seus estudos ou projetos;<br>
 ❌ Não é permitido vender o projeto original ou suas partes como produto próprio;<br>
-⚠️ Por favor, mantenha os créditos ao autor original: @Kauan19-hub.<br>
+⚠️ Por favor, mantenha os créditos ao autor original.
 
 ###
 
@@ -188,8 +188,28 @@ Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbo
 
 ###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="27" alt="javascript logo" title="JavaScript" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=html" height="27" alt="html5 logo" title="HTML5" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=css" height="27" alt="css logo" title="CSS3" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="27" alt="vscode logo" title="Visual Studio Code" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=github" height="27" alt="github logo" title="Github"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="27" alt="jquery logo" title="JQuery" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=figma" height="27" alt="figma logo" ttitle="Figma" />
+</div>
+
 <h6>Duração: 4 meses.</h6>
 <h6>Criada por: Kauan Vinícius, 2025.</h6>
+
+###
+
+
 
 
 
