@@ -101,13 +101,42 @@ resumos, exercícios e respostas!
 
 ###
 
-**<h2>‼️ Cores: Sensação e Significado:</h2>**
+**<h2>‼️Cores Usadas:</h2>**
 
 ###
 
-<h6>Em breve...</h6>
+**<h3>🔵 Tons de Azul:</h3>**
 
 ###
+
+- **Azul Elétrico**: (Botões e links) `#2563EB`;
+- **Azul Turquesa:**: (Detalhes) `#06B6D4`;
+
+**<h3>⚪ Branco:</h3>**
+
+###
+
+- **Branco Neutro**: (Texto) `#FFFFF`;
+
+###
+
+**<h3>🟣 Tons de Roxo:</h3>**
+
+###
+
+- **Roxo Escuro**: (Fundo Sofisticado) `#2E1065`;
+- **Roxo Neon**: (Destaque) `#8B5CF6`.
+
+###
+
+**<h2>‼️Significado e Sensações:</h2>**
+
+###
+
+- **Roxo**: Mistério, inovação e criatividade;
+- **Azul**: Confiança e profissionalismo;
+- **Roxo + Azul**: Tecnologia avançada, inovação e imaginação;
+- **Efeito**: Futurista e moderno estilo CyberPunk.
 
 **<h2>🖌️ Paleta de Cores:</h2>**
 
@@ -122,8 +151,6 @@ resumos, exercícios e respostas!
 </div>
 
 ###
-
-<h6>OBS: As cores serão alteradas</h6>
 
 **<h2>📄 Licença</h2>**
 
