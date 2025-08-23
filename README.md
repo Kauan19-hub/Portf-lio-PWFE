@@ -127,6 +127,8 @@ resumos, exercícios e respostas!
 
 ###
 
+<h6>OBS: As cores serão alteradas</h6>
+
 **<h2>📄 Licença</h2>**
 
 ###
