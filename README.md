@@ -1,7 +1,3 @@
-<h6>Biografia em desenvolvimento até Setembro...</h6>
-
-###
-
 **<h2>👋 Oi! Meu nome é Zypher!</h2>**
 
 ###
@@ -11,21 +7,6 @@ Seja bem-vindo ao nosso projeto. Sou seu assistente virtual programado para te d
 ###
 
 Sou um chatbot inteligente, futurista, amigável e fui desenvolvido ao longo do projeto, durante 4 meses para garantir um ótimo desempenho e interagir o máximo possível com nossos visitantes. Lembre-se de sempre manter o respeito em nossa plataforma para mantermos um ambiente acolhedor e leve!
-
-###
-
-**<h2>😝 Curiosidade sobre meu nome:</h2>**
-
-###
-
-O nome **Zypher**, representa:<br>
-
-###
-
-- Inovação;
-- Futuro;
-- Identidade;
-- Visão avançada.
 
 ---
 
