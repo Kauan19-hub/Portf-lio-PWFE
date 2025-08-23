@@ -6,15 +6,11 @@
 
 ###
 
-Seja bem-vindo ao nosso projeto. Sou seu assistente virtual programado para te dar boas-vindas ao<br>
-entrar em nosso portfólio. Fique à vontade para explorar nosso projeto, e, se desejar, inicie um `issues` para<br>
-enviar sugestões de mudanças ou melhorias! 
+Seja bem-vindo ao nosso projeto. Sou seu assistente virtual programado para te dar boas-vindas ao entrar em nosso portfólio. Fique à vontade para explorar nosso projeto, e, se desejar, inicie um `issues` para enviar sugestões de mudanças ou melhorias! 
 
 ###
 
-Sou um chatbot inteligente, futurista, amigável e fui programado com voz real. Fui desenvolvido ao longo<br>
-do projeto, durante 4 meses para garantir um ótimo desempenho e interagir o máximo possível com nossos visitantes.<br>
-Lembre-se de sempre manter o respeito em nossa plataforma para mantermos um ambiente acolhedor e leve!<br>
+Sou um chatbot inteligente, futurista, amigável e fui desenvolvido ao longo do projeto, durante 4 meses para garantir um ótimo desempenho e interagir o máximo possível com nossos visitantes. Lembre-se de sempre manter o respeito em nossa plataforma para mantermos um ambiente acolhedor e leve!
 
 ###
 
@@ -26,12 +22,12 @@ O nome **Zypher**, representa:<br>
 
 ###
 
-🚀 Inovação;<br>
-💡 Futuro;<br>
-🎭 Identidade;<br>
-🔮 Visão avançada.
+- Inovação;
+- Futuro;
+- Identidade;
+- Visão avançada.
 
-###
+---
 
 Muito obrigado pela visita, e espero que goste do portfólio! 😉
 
