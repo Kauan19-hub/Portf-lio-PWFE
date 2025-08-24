@@ -65,18 +65,6 @@ resumos, exercícios e respostas!
 
 ###
 
-**<h2>📌 Sumário:</h2>**
-
-###
-
-- Introdução;
-- Objetivos;
-- Requisitos funcionais;
-- Restrições;
-- Anexos.
-
-###
-
 **<h2>🎖 Objetivos:</h2>**
 
 ###
@@ -85,7 +73,6 @@ resumos, exercícios e respostas!
 - Design seguindo padrão;
 - Interface de facil compreensão; 
 - Layout responsivo;
-- Formas de contato; 
 - Chatbot com voz; 
 - Desempenho natural;
 - Presença;
