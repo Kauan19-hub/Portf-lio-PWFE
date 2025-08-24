@@ -127,10 +127,6 @@ resumos, exercícios e respostas!
 
 **<h2>🖌️ Paleta de Cores:</h2>**
 
-###
-
-**⬇️ Confira abaixo, como serão as cores padrão do portfólio! ⬇️**
-
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" target="blank">
    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
