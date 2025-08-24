@@ -97,7 +97,7 @@ resumos, exercícios e respostas!
 ###
 
 - **Azul Elétrico**: (Botões e links) `#2563EB`;
-- **Azul Turquesa:**: (Detalhes) `#06B6D4`;
+- **Azul Turquesa**: (Detalhes) `#06B6D4`;
 
 **⚪ Branco:**
 
