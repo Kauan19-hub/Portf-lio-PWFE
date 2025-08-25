@@ -88,6 +88,14 @@ resumos, exercícios e respostas!
 
 ###
 
+**<h2>📗 Fonte de Texto Usada:</h2>**
+
+###
+
+`Poppins, sans-serif`
+
+###
+
 **<h2>‼️Cores Usadas:</h2>**
 
 ###
