@@ -57,9 +57,8 @@ resumos, exercícios e respostas!
 
 ✅ Figma: Planejamento de prototipagem;<br>
 ✅ HTML: Base semântico;<br>
-✅ CSS: Estilização;<br>
+✅ CSS: Estilização e responsividade;<br>
 ✅ JS: Interatividade;<br>
-✅️ JQuery: Responsividade;<br>
 ✅ GitHub: Documentação;<br>
 ✅ VS Code: Editor de código onde foi desenvolvido o portfólio.
 
@@ -84,7 +83,8 @@ resumos, exercícios e respostas!
 ✅️ Voz desenvolvida através da programação;<br>
 ✅️ Nomeado como **Zypher**;<br>
 ✅️ Mente futurista e inteligente;<br>
-✅️ Possui uma forte personalidade.
+✅️ Possui uma forte personalidade;<br>
+✅️ Diáogos alternativos.
 
 ###
 
@@ -181,8 +181,6 @@ Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbo
   <img src="https://skillicons.dev/icons?i=vscode" height="27" alt="vscode logo" title="Visual Studio Code" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="27" alt="github logo" title="Github"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="27" alt="jquery logo" title="JQuery" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="27" alt="figma logo" title="Figma" />
 </div>
