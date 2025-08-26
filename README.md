@@ -139,9 +139,16 @@ resumos, exercícios e respostas!
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" target="blank">
-   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Acesse mais detalhes aqui!"  />
+   <img src="https://img.shields.io/badge/Paleta de Cores-2563EB?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Paleta de Cores"  />
+  </a>
+  <img width="2">
+  <a href="https://www.figma.com/design/bKf5APHcLWteqlwIexM6NU/Logo?node-id=0-1&p=f&t=uKndI4FQIfiFqN9q-0 target="blank"> 
+   <img src="https://img.shields.io/badge/Logotipo-2563EB?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo"  title="Logotipo"/>
   </a>
 </div>
+
+</div>
+
 
 ###
 
