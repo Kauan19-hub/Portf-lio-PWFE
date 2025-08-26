@@ -25,6 +25,20 @@ com foco em estruturação de páginas, estilização e interatividade. Com isso
 
 ###
 
+**<h2>📂 Organização dos arquivos:</h2>**
+
+###
+
+├── 📄 Portf-lio-PWFE<br>
+├── 📄 VSCode<br>
+├── 📄 Esilo.css<br>
+├── 📄 Index.html<br>
+├── 📄 JavaScript Geral.js<br>
+├── 📄 JavaScript Exercício.js<br>
+└── 📄 README.md<br> 
+
+###
+
 **<h2>🖥️ O que é HTML, CSS e JavaScript?</h2>**
 
 ###
