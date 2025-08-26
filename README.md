@@ -121,7 +121,7 @@ resumos, exercícios e respostas!
 - **Roxo + Azul**: Tecnologia avançada, inovação e imaginação;
 - **Efeito**: Futurista e moderno estilo CyberPunk.
 
-**<h2>🖌️ Paleta de Cores:</h2>**
+###
 
 <div align="left">
   <a href="https://www.figma.com/design/mzNPfg04N3Rg2ru2Y7TXth/Paleta-de-Cores-e-Logo?t=rnE1sR9BrjeKzGUa-0" target="blank">
