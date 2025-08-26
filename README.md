@@ -140,8 +140,7 @@ Você tem permissão para usar, copiar, modificar e distribuir este projeto para
 ####
 
 ✅ Pode usar e adaptar para seus estudos ou projetos;<br>
-❌ Não é permitido vender o projeto original ou suas partes como produto próprio;<br>
-⚠️ Por favor, mantenha os créditos ao autor original.
+❌ Não é permitido vender o projeto original ou suas partes como produto próprio.<br>
 
 ###
 
