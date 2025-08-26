@@ -72,19 +72,8 @@ resumos, exercícios e respostas!
 - Design seguindo padrão;
 - Interface de facil compreensão; 
 - Layout responsivo;
-- Chatbot com voz; 
 - Desempenho natural;
 - Presença;
-
-###
-
-**<h2>🤖 Características do Chatbot:</h2>**
-
-✅️ Voz desenvolvida através da programação;<br>
-✅️ Nomeado como **Zypher**;<br>
-✅️ Mente futurista e inteligente;<br>
-✅️ Possui uma forte personalidade;<br>
-✅️ Diáogos alternativos.
 
 ###
 
@@ -162,20 +151,6 @@ Você tem permissão para usar, copiar, modificar e distribuir este projeto para
 ###
 
 Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar!
-
-###
-
-**<h2>🤖 Conheça Zypher:</h2>**
-
-###
-
-Conheça um pouquinho mais sobre o chatbot Zypher, o assistente virtual e símbolo do portfólio!
-
-###
-
-[Imagem](https://github.com/Kauan19-hub/Portf-lio-PWFE/blob/master/Zypher.png "Zypher está na branch Master!")
-
-[Biografia](https://github.com/Kauan19-hub/Portf-lio-PWFE/blob/master/README.md "Zypher está na branch Master!")
 
 ###
 
