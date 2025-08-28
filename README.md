@@ -149,20 +149,6 @@ resumos, exercícios e respostas!
 
 </div>
 
-
-###
-
-**<h2>📄 Licença</h2>**
-
-###
-
-Você tem permissão para usar, copiar, modificar e distribuir este projeto para fins educacionais e pessoais.
-
-####
-
-✅ Pode usar e adaptar para seus estudos ou projetos;<br>
-❌ Não é permitido vender o projeto original ou suas partes como produto próprio.<br>
-
 ###
 
 **<h2>🤝 Contribuições:</h2>**
@@ -189,6 +175,7 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
 
 <h6>Duração: 4 meses.</h6>
 <h6>Criada por: Kauan Vinícius, 2025.</h6>
+<h6>Não é permitido usá-lo como produto próprio.</h6>
 
 ###
 
