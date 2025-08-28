@@ -143,7 +143,7 @@ resumos, exercícios e respostas!
   </a>
   <img width="2">
   <a href="https://www.figma.com/design/bKf5APHcLWteqlwIexM6NU/Logo?node-id=0-1&p=f&t=uKndI4FQIfiFqN9q-0 target="blank"> 
-   <img src="https://img.shields.io/badge/Logotipo-2563EB?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo"  title="Logotipo"/>
+   <img src="https://img.shields.io/badge/Logotipo-2563EB?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" title="Logotipo" />
   </a>
 </div>
 
