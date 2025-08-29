@@ -155,7 +155,7 @@ resumos, exercícios e respostas!
 
 ###
 
-Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar!
+Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **issue** para discutirmos o que você gostaria de alterar, ou contribuir!
 
 ###
 
