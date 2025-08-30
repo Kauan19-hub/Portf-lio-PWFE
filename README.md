@@ -102,27 +102,29 @@ resumos, exercícios e respostas!
 
 ###
 
-**🔵 Tons de Azul:**
+- Azul: `#06B6D4`; 
+- Azul: `#3267D9`.
 
 ###
 
-- **Azul Elétrico**: (Botões e links) `#2563EB`;
-- **Azul Turquesa**: (Detalhes) `#06B6D4`;
-
-**⚪ Branco:**
+- Branco: `#FFF`;
 
 ###
 
-- **Branco Neutro**: (Texto) `#FFFFF`;
+- Roxo: `#2E1065`;
+- Roxo: `#8B5CF6`.
 
 ###
 
-**🟣 Tons de Roxo:**
+- Laranja: `#F59E0B`.
+- 
+###
+
+- Verde: `#16A34A`.
 
 ###
 
-- **Roxo Escuro**: (Fundo Sofisticado) `#2E1065`;
-- **Roxo Neon**: (Destaque) `#8B5CF6`.
+- Vermelho: `#DC2626`.
 
 ###
 
@@ -133,7 +135,10 @@ resumos, exercícios e respostas!
 - **Roxo**: Mistério, inovação e criatividade;
 - **Azul**: Confiança e profissionalismo;
 - **Roxo + Azul**: Tecnologia avançada, inovação e imaginação;
-- **Efeito**: Futurista e moderno estilo CyberPunk.
+- **Laranja**: Energia e criatividade + alerta;
+- **Vermelho**: Mix de amor e fúria + erro;
+- **Verde:** Saúde e vitalidade + sucesso;
+- **Efeito**: Futurista e moderno.
 
 ###
 
@@ -173,7 +178,7 @@ Pull Requests são bem-vindos! Para mudanças, sujestões, por favor, abra um **
   <img src="https://skillicons.dev/icons?i=figma" height="27" alt="figma logo" title="Figma" />
 </div>
 
-<h6>Duração: 4 meses.</h6>
+<h6>Duração: 3 meses.</h6>
 <h6>Criada por: Kauan Vinícius, 2025.</h6>
 <h6>Não é permitido usá-lo como produto próprio.</h6>
 
