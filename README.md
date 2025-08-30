@@ -98,33 +98,20 @@ resumos, exercícios e respostas!
 
 ###
 
-**<h2>‼️Cores Usadas:</h2>**
+**<h2>🎨 Paleta de Cores:</h2>**
 
 ###
 
-- Azul: `#06B6D4`; 
-- Azul: `#3267D9`.
-
-###
-
-- Branco: `#FFF`;
-
-###
-
-- Roxo: `#2E1065`;
-- Roxo: `#8B5CF6`.
-
-###
-
-- Laranja: `#F59E0B`.
-- 
-###
-
-- Verde: `#16A34A`.
-
-###
-
-- Vermelho: `#DC2626`.
+| Cor      | Hex      | Preview |
+|----------|----------|---------|
+| Azul     | `#06B6D4` |   🔵   |
+| Azul     | `#3267D9` |   🔵   |
+| Branco   | `#FFFFFF` |   ⚪   |
+| Roxo     | `#2E1065` |   🟣   |
+| Roxo     | `#8B5CF6` |   🟣   |
+| Laranja  | `#F59E0B` |   🟠   |
+| Verde    | `#16A34A` |   🟢   |
+| Vermelho | `#DC2626` |   🔴   |
 
 ###
 
